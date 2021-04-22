@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\bin\Debug\netcoreapp3.1\Savour.DataAccess.deps.json
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\bin\Debug\netcoreapp3.1\Savour.DataAccess.dll
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\bin\Debug\netcoreapp3.1\Savour.DataAccess.pdb
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\obj\Debug\netcoreapp3.1\Savour.DataAccess.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\obj\Debug\netcoreapp3.1\Savour.DataAccess.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\obj\Debug\netcoreapp3.1\Savour.DataAccess.AssemblyInfo.cs
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\obj\Debug\netcoreapp3.1\Savour.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\obj\Debug\netcoreapp3.1\Savour.DataAccess.dll
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\obj\Debug\netcoreapp3.1\Savour.DataAccess.pdb
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\bin\Debug\netcoreapp3.1\Savour.Models.dll
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\bin\Debug\netcoreapp3.1\Savour.Utility.dll
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\bin\Debug\netcoreapp3.1\Savour.Models.pdb
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\bin\Debug\netcoreapp3.1\Savour.Utility.pdb
+C:\Users\pc\source\repos\Savor\Savour.DataAccess\obj\Debug\netcoreapp3.1\Savour.DataAccess.csproj.CopyComplete

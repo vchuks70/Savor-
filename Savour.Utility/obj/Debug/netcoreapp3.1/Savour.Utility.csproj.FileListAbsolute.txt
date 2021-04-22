@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\Savor\Savour.Utility\bin\Debug\netcoreapp3.1\Savour.Utility.deps.json
+C:\Users\pc\source\repos\Savor\Savour.Utility\bin\Debug\netcoreapp3.1\Savour.Utility.dll
+C:\Users\pc\source\repos\Savor\Savour.Utility\bin\Debug\netcoreapp3.1\Savour.Utility.pdb
+C:\Users\pc\source\repos\Savor\Savour.Utility\obj\Debug\netcoreapp3.1\Savour.Utility.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Savor\Savour.Utility\obj\Debug\netcoreapp3.1\Savour.Utility.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Savor\Savour.Utility\obj\Debug\netcoreapp3.1\Savour.Utility.AssemblyInfo.cs
+C:\Users\pc\source\repos\Savor\Savour.Utility\obj\Debug\netcoreapp3.1\Savour.Utility.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Savor\Savour.Utility\obj\Debug\netcoreapp3.1\Savour.Utility.dll
+C:\Users\pc\source\repos\Savor\Savour.Utility\obj\Debug\netcoreapp3.1\Savour.Utility.pdb
