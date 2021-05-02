@@ -395,3 +395,4 @@ C:\Users\pc\source\repos\Savor\Savor\bin\Debug\netcoreapp3.1\Savor.Utility.dll
 C:\Users\pc\source\repos\Savor\Savor\bin\Debug\netcoreapp3.1\Savor.DataAccess.pdb
 C:\Users\pc\source\repos\Savor\Savor\bin\Debug\netcoreapp3.1\Savor.Models.pdb
 C:\Users\pc\source\repos\Savor\Savor\bin\Debug\netcoreapp3.1\Savor.Utility.pdb
+C:\Users\pc\source\repos\Savor\Savor\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Category\Index.cshtml.g.cs
